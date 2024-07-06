@@ -1,5 +1,4 @@
-![Header](./[https://p.turbosquid.com/ts-thumb/Px/kVFUDT/zU/turnmilkcow/jpg/1623316948/1920x1080/turn_fit_q99/8759896f3489628d1823eef62567cd7d9f224ebe/turnmilkcow-1.jpg])
-- 👋 Hi, I’m @E13A17
+## 👋 Hi, I’m @E13A17
 -  Pronouns: She/Her
 
 <!---
